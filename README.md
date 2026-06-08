@@ -8,7 +8,7 @@ La idea de este proyecto es permitir a cualquier usuario explorar datasets y gen
 
 ## 🚀 Demo
 
-👉 Demo: 
+👉 Demo: https://datapulse---demo-w3tcke7f2vtdyktawtmmy5.streamlit.app
 
 👉 Tienda / acceso completo: https://jaumeps.gumroad.com/l/pxrqic
 
